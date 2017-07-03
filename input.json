@@ -1,0 +1,104 @@
+{
+    "assets": [
+        {
+            "units": 378000, 
+            "bondit_id": 31956
+        }, 
+        {
+            "units": 364000, 
+            "bondit_id": 79206
+        }, 
+        {
+            "units": 379000, 
+            "bondit_id": 22067
+        }, 
+        {
+            "units": 297000, 
+            "bondit_id": 54055
+        }, 
+        {
+            "units": 381058, 
+            "bondit_id": 46865
+        }, 
+        {
+            "units": 58000, 
+            "bondit_id": 18342
+        }, 
+        {
+            "units": 335570, 
+            "bondit_id": 24691
+        }, 
+        {
+            "units": 349000, 
+            "bondit_id": 35972
+        }, 
+        {
+            "units": 353000, 
+            "bondit_id": 67070
+        }, 
+        {
+            "units": 125000, 
+            "bondit_id": 29449
+        }, 
+        {
+            "units": 63185, 
+            "bondit_id": 55509
+        }, 
+        {
+            "units": 289600, 
+            "bondit_id": 69981
+        }, 
+        {
+            "units": 50000, 
+            "bondit_id": 41523
+        }, 
+        {
+            "units": 402000, 
+            "bondit_id": 70482
+        }, 
+        {
+            "units": 301000, 
+            "bondit_id": 16451
+        }, 
+        {
+            "units": 759000, 
+            "bondit_id": 43978
+        }, 
+        {
+            "units": 377000, 
+            "bondit_id": 24294
+        }, 
+        {
+            "units": 169000, 
+            "bondit_id": 103611
+        }, 
+        {
+            "units": 330857, 
+            "bondit_id": 13310
+        }, 
+        {
+            "units": 232170, 
+            "bondit_id": 52982
+        }, 
+        {
+            "units": 413000, 
+            "bondit_id": 13566
+        }, 
+        {
+            "units": 357977, 
+            "bondit_id": 54551
+        }, 
+        {
+            "units": 112000, 
+            "bondit_id": 55951
+        }, 
+        {
+            "units": 375000, 
+            "bondit_id": 53055
+        }, 
+        {
+            "units": 457820, 
+            "bondit_id": 68981
+        }
+    ]
+}
